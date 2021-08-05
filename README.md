@@ -25,11 +25,11 @@
 <p>
   🎮 Jogar |  :headphones: MPB  |  🗺️ Viagens | 👩🏻‍💻 Programar
 </p>
- 🍃 “Na natureza nada se cria, nada se perde, tudo se transforma” 🌺
 <p>
+  “O ontem é história, o amanhã é um mistério, mas o hoje é uma dádiva. É por isso que se chama presente.” 🍃
 </p>
 <p>
-  E na programação? 🤔💻
+   “Na natureza nada se cria, nada se perde, tudo se transforma” 🌺
 </p><br>
 
 <h2>🛠️ Tecnologias e ferramentas de conhecimento:</h2>
