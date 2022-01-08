@@ -55,5 +55,7 @@
   <img height="30" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
+![Snake animation](https://github.com/AnaBerigo/AnaBerigo/blob/output/github-contribution-grid-snake.svg)
+
 
 
