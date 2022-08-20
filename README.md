@@ -16,9 +16,6 @@
     <a target="_blank" href="https://www.linkedin.com/in/anaberigo/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a target="_blank" href="https://www.behance.net/anaberigo">
-      <img alt="Behance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />
-    </a>
     <a target="_blank" href="https://www.instagram.com/ana_berigo/">
       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
@@ -55,6 +52,10 @@
 <p>
    “Na natureza nada se cria, nada se perde, tudo se transforma” 🌺
 </p>
+<p>
+   “Se até as variáveis precisam ser declaradas, porque não me declarar pra você?” 🫠
+</p>
+
 
 ![Snake animation](https://github.com/AnaBerigo/AnaBerigo/blob/output/github-contribution-grid-snake.svg)
 
