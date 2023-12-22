@@ -59,5 +59,12 @@
 
 <!-- ![Snake animation](https://github.com/AnaBerigo/AnaBerigo/blob/output/github-contribution-grid-snake.svg) -->
 
-![github-user-contribution](https://github.com/AnaBerigo/AnaBerigo/assets/74029212/ef83b73d-46ad-413b-97e7-227636aff469)
+<!--![github-user-contribution](https://github.com/AnaBerigo/AnaBerigo/assets/74029212/ef83b73d-46ad-413b-97e7-227636aff469)-->
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
