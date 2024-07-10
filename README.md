@@ -10,14 +10,11 @@
   <h3> Desenvolvedora Front End e Mobile </h3>
   <div>
   <p>
-    <a target="_blank" href="mailto:ana.berigo17@gmail.com">
+    <a target="_blank" href="mailto:anaberigoo@gmail.com">
       <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a target="_blank" href="https://www.linkedin.com/in/anaberigo/">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a target="_blank" href="https://www.instagram.com/ana_berigo/">
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a target="_blank" href="https://www.figma.com/@AnaBerigo">
       <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
