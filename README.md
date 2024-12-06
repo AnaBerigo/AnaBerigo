@@ -82,9 +82,6 @@
 <p>
    “Na natureza nada se cria, nada se perde, tudo se transforma” 🌺
 </p>
-<p>
-   “Se até as variáveis precisam ser declaradas, porque não me declarar pra você?” 🫠
-</p>
 
 
 <!-- ![Snake animation](https://github.com/AnaBerigo/AnaBerigo/blob/output/github-contribution-grid-snake.svg) -->
